@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\gson-2.3.1_4b47eef17ef75c61f4212a903164a559e9821722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_c60fef3315c16315d8ef6d553c18db924f65978d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9d44786e427ed4ab74c0ef4144eab424e6625c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_d98f5cdedbea75d40cbb10a2a84d8a55ad9037a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_bd7d6e2d1ee2e69577edfee80c6de0e3fa69a983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a20c5bc42ba8b5e87de2bf8a896c76f48736d6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8ca2f3937a6a19cb54096ed94d185c57980c862d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_bebefdcf8c6b5209cdc385f95350e7aa73dff8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_f06d6f4f2e404852fa680257dea66d7747d37175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_9ec136e63576fb02fc70e1198a9768c8647c57b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_dc6de66b63e31e9248b3a8ad19cbfdc57a58159d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_f819f66aff43ac1ca29bc649b9d1d261652975e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_45437d1306b8eef85047c42e6a2196dca5dbff44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_074d151d1f1a320e9d6bd68630197529419fd3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ansh\Desktop\ExpandableListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_360c3c4e1be8fc963c1a84d5c3f6ec21b1bb2422.jar" />
+    </item>
+
+</items>

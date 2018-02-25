@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandable ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dessert_name">Dessert Name : </string>
+    <string name="category">Category : </string>
+    <string name="price">Price : </string>
+    <string name="title_activity_batter">BatterActivity</string>
+    <string name="title_activity_topping_acitivty">ToppingAcitivty</string>
+
+</resources>
